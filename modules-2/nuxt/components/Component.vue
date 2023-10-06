@@ -1,0 +1,1 @@
+<template><div>anything</div></template>
