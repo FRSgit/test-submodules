@@ -1,0 +1,7 @@
+{
+  "displayName": "Module 1",
+  "supports": ["SAP", "BigCommerce"],
+  "dependencies": {
+    "something": "2.5.0"
+  }
+}
